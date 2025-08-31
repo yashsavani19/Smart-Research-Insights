@@ -136,3 +136,4 @@ You know everything is working when:
 ---
 
 **Note:** The basic dashboard provides 90% of the functionality. The only missing feature is the topic prediction for new text, which requires bertopic. You can add this later when you have the build tools installed.
+
