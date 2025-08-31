@@ -1,0 +1,17 @@
+# CORE API Configuration
+from_year: 2021
+to_year: 2025
+language: en
+
+# Model Configuration
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+min_topic_size: 15
+
+# Vectorizer Configuration
+min_df: 5
+max_df: 0.9
+decay: 0.01
+
+# Paging Configuration
+page_size: 100
+max_pages: 200

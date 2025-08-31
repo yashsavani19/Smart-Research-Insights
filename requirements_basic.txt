@@ -1,7 +1,5 @@
-﻿bertopic
 sentence-transformers
 umap-learn
-hdbscan
 scikit-learn
 numpy
 pandas
