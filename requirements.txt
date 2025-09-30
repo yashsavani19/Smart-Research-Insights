@@ -1,6 +1,4 @@
-﻿requests
+﻿psycopg2-binary
 python-dotenv
-psycopg2-binary
+requests
 pandas
-fastapi
-uvicorn
